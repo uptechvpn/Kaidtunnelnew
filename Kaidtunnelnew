@@ -1,1 +1,17 @@
-kaidtunnel
+
+{
+  "update_version": "1.0.0",
+  "com.kaidtunnel.vpn": {
+    "latest_version_code": 1,
+    "apk_url": "https://play.google.com/store/apps/details?id=com.kaidtunnel.vpn",
+    "version_rules": {
+      "1": {
+        "force_update": false,
+        "stop_config_updates": false,
+        "clear_app_data": false,
+        "update_message": "Update required",
+        "apk_url": "https://play.google.com/store/apps/details?id=com.kaidtunnel.vpn"
+      }
+    }
+  }
+}
